@@ -1,0 +1,96 @@
+{
+    "status": 200,
+    "data": [
+      {
+        "gid": "1000",
+        "id": "1000",
+        "matches": {
+          "match": {
+            "awayteam": {
+              "errors": "",
+              "extra": "",
+              "hits": "",
+              "id": "1006",
+              "in1": "",
+              "in2": "",
+              "in3": "",
+              "in4": "",
+              "in5": "",
+              "in6": "",
+              "in7": "",
+              "in8": "",
+              "in9": "",
+              "name": "Atlanta Braves",
+              "totalscore": ""
+            },
+            "date": "01.09.2024",
+            "extra_inn": "",
+            "id": "327667",
+            "localteam": {
+              "errors": "",
+              "extra": "",
+              "hits": "",
+              "id": "1009",
+              "in1": "",
+              "in2": "",
+              "in3": "",
+              "in4": "",
+              "in5": "",
+              "in6": "",
+              "in7": "",
+              "in8": "",
+              "in9": "",
+              "name": "Philadelphia Phillies",
+              "totalscore": ""
+            },
+            "mlbid": "",
+            "odds": {
+              "rotation_away": "",
+              "rotation_home": "",
+              "ts": "1725215531",
+              "type": [             
+           
+              
+                {
+                  "bookmaker": {
+                    "id": "16",
+                    "name": "bet365",
+                    "odd": [
+                      {
+                        "name": "Home",
+                        "us": "750",
+                        "value": "8.50"
+                      },
+                      {
+                        "name": "Away",
+                        "us": "700",
+                        "value": "8.00"
+                      },
+                      {
+                        "name": "3",
+                        "us": "1000",
+                        "value": "11.00"
+                      },
+                      {
+                        "name": "4+",
+                        "us": "400",
+                        "value": "5.00"
+                      }
+                    ],
+                    "stop": "False",
+                    "ts": "1725192125"
+                  },
+                  "id": "23474",
+                  "stop": "False",
+                  "value": "Away Winning Margin"
+                }
+              ]
+            },
+            "status": "Not Started",
+            "time": "23:10"
+          }
+        },
+        "name": "Usa: Mlb"
+      }
+    ]
+  }
